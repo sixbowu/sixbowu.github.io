@@ -124,15 +124,20 @@ h4 {
 }
 
 
-a,
+a{
+    text-decoration: none;
+    outline: none;
+    border: none;
+		color: #333333;
+}
 a:hover,
 a:active,
 a:focus {
     text-decoration: none;
     outline: none;
     border: none;
+		color: #f3bd7b;
 }
-
 
 
 @media (min-width: 1200px) {
