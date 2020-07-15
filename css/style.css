@@ -7962,7 +7962,7 @@ select:focus {
     margin: 0;
     padding: 0;
     width: 190px;
-    border-left: 2px solid #2d353d;
+    border-left: 0px solid #2d353d;
 }
 .visit-day-select .tab-btns li:first-child{
     border: none;
