@@ -1,2 +1,0 @@
-# sixbowu.github.io
- 
